@@ -1,0 +1,50 @@
+{
+  "name": "@flynns-devstation/eslint-config",
+  "version": "1.0.0-alpha.0",
+  "description": "ESlint config for flynns devstation",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --config=eslintrc.json",
+    "format": "prettier --write '**/*.{js,md,ts}'"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "react",
+    "typescript"
+  ],
+  "author": {
+    "name": "Chris Helgert",
+    "email": "chris@flynnsdevstation.de"
+  },
+  "bugs": {
+    "url": "https://github.com/flynnsDevstation/eslint-config"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/flynnsDevstation/eslint-config"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^1.4.2",
+    "eslint": "^5.15.1",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4",
+    "eslint-plugin-react-hooks": "^1.5.0",
+    "typescript": "^3.3.3333"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^1.4.2",
+    "eslint": "^5.15.1",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4",
+    "eslint-plugin-react-hooks": "^1.5.0",
+    "typescript": "^3.3.3333"
+  },
+  "dependencies": {
+    "eslint-config-airbnb-typescript": "^1.1.0",
+    "eslint-config-prettier": "^4.1.0"
+  }
+}
