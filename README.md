@@ -6,10 +6,10 @@ This package provides Flynns Devstation's .eslintrc as an extensible shared conf
 
 ## Features
 
-* Supports TypeScript with `@typescript-eslint/eslint-plugin`
-* Supports React and React Hooks
-* Based on `eslint-config-airbnb-typescript`
-* Works together with prettier
+- Supports TypeScript with `@typescript-eslint/eslint-plugin`
+- Supports React and React Hooks
+- Based on `eslint-config-airbnb-typescript`
+- Works together with prettier
 
 ## Usage
 

@@ -1,5 +1,3 @@
-module.exports = {
-  semi: false,
-  singleQuote: true,
-  trailingComma: 'es5',
-}
+const config = require('@flynns-devstation/prettier-config')
+
+module.exports = config
