@@ -11,6 +11,7 @@
     "node": true
   },
   "rules": {
+    "quotes": ["warn", "single"],
     "import/prefer-default-export": false,
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn"
