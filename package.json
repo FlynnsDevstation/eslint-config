@@ -48,8 +48,8 @@
     "typescript": "^3.3.3333"
   },
   "dependencies": {
-    "eslint-config-airbnb-typescript": "^1.1.0",
-    "eslint-config-prettier": "^4.1.0"
+    "eslint-config-airbnb-typescript": "^4.0.0",
+    "eslint-config-prettier": "^5.0.0"
   },
   "husky": {
     "pre-commit": "lint-staged"
