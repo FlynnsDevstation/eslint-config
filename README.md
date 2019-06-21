@@ -1,7 +1,7 @@
 # eslint-config
 
 [![npm](https://img.shields.io/npm/v/@flynns-devstation/eslint-config.svg?style=for-the-badge)](https://www.npmjs.com/package/@flynns-devstation/eslint-config)
-[![CircleCI](https://img.shields.io/circleci/build/github/FlynnsDevstation/eslint-config/master.svg?style=for-the-badge)](https://circleci.com/gh/FlynnsDevstation/eslint-config)
+[![CircleCI](https://img.shields.io/circleci/build/github/FlynnsDevstation/eslint-config/master.svg?style=for-the-badge)](https://circleci.com/gh/FlynnsDevstation/eslint-config) [![Greenkeeper badge](https://badges.greenkeeper.io/FlynnsDevstation/eslint-config.svg)](https://greenkeeper.io/)
 
 This package provides Flynns Devstation's .eslintrc as an extensible shared config.
 
