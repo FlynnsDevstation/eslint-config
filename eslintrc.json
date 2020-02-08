@@ -12,7 +12,7 @@
   },
   "rules": {
     "quotes": ["warn", "single"],
-    "import/prefer-default-export": false,
+    "import/prefer-default-export": "off",
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn"
   }
