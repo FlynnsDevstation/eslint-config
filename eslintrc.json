@@ -17,7 +17,7 @@
     "react-hooks/exhaustive-deps": "warn",
     "jsx-a11y/anchor-is-valid": "off"
   },
-   "parserOptions": {
+  "parserOptions": {
     "project": "./tsconfig.json"
   }
 }
