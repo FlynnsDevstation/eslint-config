@@ -34,9 +34,9 @@
     regenerator-runtime "^0.13.4"
 
 "@flynns-devstation/prettier-config@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@flynns-devstation/prettier-config/-/prettier-config-1.0.1.tgz#e0b032d387f3c737db912570a010e6dcbf5250b0"
-  integrity sha512-Z2jL2+nUfzdepDTBJyJQZvkUAzMetSLurG/69lP/hNWY1cLbwOnquBtndIj//EqD+K89tqp5IPrl7rwpQSK/Gg==
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@flynns-devstation/prettier-config/-/prettier-config-1.0.2.tgz#a47bdb8ccd9826db48d9c0b2eb99f95216237db2"
+  integrity sha512-CJE0gAE9Oq4VgromhbYpga6ljIaR1rH7EG1A7YcMtoIwBD8Gro/R7bLpYCXo5d7EHvRHkw1fG238Q4Xm5Jo19g==
 
 "@samverschueren/stream-to-observable@^0.3.0":
   version "0.3.0"
